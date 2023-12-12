@@ -4,20 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="532c1bd2-abfb-4d76-a1e9-6cfe500b4e74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/src/main/java/com/example/productmanagement/controller/ProductServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/src/main/java/com/example/productmanagement/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/src/main/java/com/example/productmanagement/service/IProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/src/main/java/com/example/productmanagement/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/src/main/webapp/product/changeProduct.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/src/main/webapp/product/productList.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/src/main/webapp/product/viewProduct.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fb6e0e5e-d70c-472b-9498-06aaf177c2fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/productmanagement/controller/ProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/productmanagement/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/productmanagement/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/productmanagement/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/product/changeProduct.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/product/productList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/product/viewProduct.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11_1_TH_customer_management/customer-management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../11_1_TH_customer_management/customer-management/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/src/main/java/com/codegym/study_case_v1/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../study_case_2/study_case_v1/src/main/java/com/codegym/study_case_v1/controller/UserController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,21 +50,18 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
+  "associatedIndex": 3
 }]]></component>
-  <component name="ProjectId" id="2ZQDEkjpGNo6Jwp96AVK4AJbrgh" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2ZQGWpY23zH3YWm89biNO5aFLAE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -73,18 +70,23 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.example.productmanagement.service" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.83" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.83" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="Gradle : com.example : customer-management-1.0-SNAPSHOT.war">
+        <artifact name="Gradle : com.example : product-management-1.0-SNAPSHOT.war">
           <settings>
             <option name="CONTEXT_PATH" value="" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="6a1c95b6-4323-4857-b932-1a9297a7ee53" />
+        <option name="BASE_DIRECTORY_NAME" value="3fa3ed38-cda7-4613-8c41-04177e29c9a0" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -92,7 +94,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="53155" />
+        <option name="DEBUG_PORT" value="53591" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -157,7 +159,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="Gradle : com.example : customer-management-1.0-SNAPSHOT.war" />
+          <artifact name="Gradle : com.example : product-management-1.0-SNAPSHOT.war" />
         </option>
       </method>
     </configuration>
@@ -165,19 +167,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="532c1bd2-abfb-4d76-a1e9-6cfe500b4e74" name="Changes" comment="" />
-      <created>1702345300116</created>
+      <changelist id="fb6e0e5e-d70c-472b-9498-06aaf177c2fd" name="Changes" comment="" />
+      <created>1702346924080</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1702345300116</updated>
-      <workItem from="1702345301137" duration="11523000" />
+      <updated>1702346924080</updated>
+      <workItem from="1702346925091" duration="9317000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

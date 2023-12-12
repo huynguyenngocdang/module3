@@ -36,10 +36,6 @@ public class UserController extends HttpServlet {
         }
     }
 
-    @Override
-    protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-
-    }
 
     private void listUser(HttpServletRequest req, HttpServletResponse resp) {
         List<User> users = userService.getAllUser();
