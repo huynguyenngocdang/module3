@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="532c1bd2-abfb-4d76-a1e9-6cfe500b4e74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/src/main/java/com/example/productmanagement/controller/ProductServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/src/main/java/com/example/productmanagement/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/src/main/java/com/example/productmanagement/service/IProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/src/main/java/com/example/productmanagement/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/src/main/webapp/product/changeProduct.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/src/main/webapp/product/productList.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/src/main/webapp/product/viewProduct.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/src/main/java/com/codegym/study_case_v1/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../study_case_2/study_case_v1/src/main/java/com/codegym/study_case_v1/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +158,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702345300116</updated>
-      <workItem from="1702345301137" duration="11523000" />
+      <workItem from="1702345301137" duration="12633000" />
     </task>
     <servers />
   </component>

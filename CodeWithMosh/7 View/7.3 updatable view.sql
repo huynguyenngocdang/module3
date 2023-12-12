@@ -18,3 +18,4 @@ select
     payment_date
 from invoices
 where (invoice_total - payment_total) > 0
+WITH CHECK OPTION
