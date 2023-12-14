@@ -5,8 +5,92 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="532c1bd2-abfb-4d76-a1e9-6cfe500b4e74" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../12_2_BT_user_management/user-management/.idea/dataSources/f4538feb-27ac-4e81-9a49-d0187b621ab7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12_2_BT_user_management/user-management/.idea/dataSources/f4538feb-27ac-4e81-9a49-d0187b621ab7/storage_v2/_src_/schema/12_2_user_management.jOD9zQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12_2_BT_user_management/user-management/.idea/dataSources/f4538feb-27ac-4e81-9a49-d0187b621ab7/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12_2_BT_user_management/user-management/.idea/dataSources/f4538feb-27ac-4e81-9a49-d0187b621ab7/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12_2_BT_user_management/user-management/.idea/dataSources/f4538feb-27ac-4e81-9a49-d0187b621ab7/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12_2_BT_user_management/user-management/.idea/dataSources/f4538feb-27ac-4e81-9a49-d0187b621ab7/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12_2_BT_user_management/user-management/src/main/java/com/example/usermanagement/constant/ConstantQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12_2_BT_user_management/user-management/src/main/java/com/example/usermanagement/constant/ConstantVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12_2_BT_user_management/user-management/src/main/java/com/example/usermanagement/controller/UserServletController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12_2_BT_user_management/user-management/src/main/java/com/example/usermanagement/dao/IUserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12_2_BT_user_management/user-management/src/main/java/com/example/usermanagement/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12_2_BT_user_management/user-management/src/main/java/com/example/usermanagement/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12_2_BT_user_management/user-management/src/main/java/com/example/usermanagement/utils/JDBCConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12_2_BT_user_management/user-management/src/main/webapp/view/user/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../12_2_BT_user_management/user-management/src/main/webapp/view/user/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cg_lazada_plus_project/cg-lazada-plus-project/src/main/java/com/codegym/cglazadaplusproject/constant/Query.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cg_lazada_plus_project/cg-lazada-plus-project/src/main/java/com/codegym/cglazadaplusproject/constant/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cg_lazada_plus_project/cg-lazada-plus-project/src/main/java/com/codegym/cglazadaplusproject/utils/JDBCConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cg_lazada_plus_project_backup/cg-lazada-plus-project-bk/src/main/java/com/codegym/cglazadaplusprojectbk/constant/Query.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cg_lazada_plus_project_backup/cg-lazada-plus-project-bk/src/main/java/com/codegym/cglazadaplusprojectbk/constant/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cg_lazada_plus_project_backup/cg-lazada-plus-project-bk/src/main/java/com/codegym/cglazadaplusprojectbk/controller/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cg_lazada_plus_project_backup/cg-lazada-plus-project-bk/src/main/java/com/codegym/cglazadaplusprojectbk/dao/IUserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cg_lazada_plus_project_backup/cg-lazada-plus-project-bk/src/main/java/com/codegym/cglazadaplusprojectbk/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cg_lazada_plus_project_backup/cg-lazada-plus-project-bk/src/main/java/com/codegym/cglazadaplusprojectbk/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cg_lazada_plus_project_backup/cg-lazada-plus-project-bk/src/main/java/com/codegym/cglazadaplusprojectbk/service/UserLoginValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cg_lazada_plus_project_backup/cg-lazada-plus-project-bk/src/main/java/com/codegym/cglazadaplusprojectbk/service/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cg_lazada_plus_project_backup/cg-lazada-plus-project-bk/src/main/java/com/codegym/cglazadaplusprojectbk/utils/JDBCConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/src/main/java/com/codegym/demomvc1/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/src/main/java/com/codegym/demomvc1/controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/src/main/java/com/codegym/demomvc1/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/src/main/java/com/codegym/demomvc1/model/dao/IProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/src/main/java/com/codegym/demomvc1/model/dao/IUtilityDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/src/main/java/com/codegym/demomvc1/model/dao/MyConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/src/main/java/com/codegym/demomvc1/model/dao/impl/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/src/main/java/com/codegym/demomvc1/model/entity/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/src/main/java/com/codegym/demomvc1/model/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/src/main/java/com/codegym/demomvc1/model/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/src/main/java/com/codegym/demomvc1/model/service/IUtilityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/src/main/java/com/codegym/demomvc1/model/service/impl/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/src/main/java/com/codegym/demomvc1/model/service/impl/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/src/main/webapp/views/product/editProduct.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/src/main/webapp/views/product/newProduct.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/src/main/webapp/views/product/productInfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demoMvc/demo-mvc-1/src/main/webapp/views/product/productList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../11_2_BT_product_management/product-management/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_1_TH_user_management/user-management/src/main/java/com/example/usermanagement/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../12_1_TH_user_management/user-management/src/main/java/com/example/usermanagement/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/src/main/java/com/codegym/study_case_v1/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/src/main/java/com/codegym/study_case_v1/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/src/main/java/com/codegym/study_case_v1/dao/IUserDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/src/main/java/com/codegym/study_case_v1/dao/impl/UserDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/src/main/java/com/codegym/study_case_v1/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/src/main/java/com/codegym/study_case_v1/service/IUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/src/main/java/com/codegym/study_case_v1/service/impl/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/src/main/java/com/codegym/study_case_v1/utils/JDBCConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/src/main/webapp/WEB-INF/users/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../study_case_2/study_case_v1/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/demo/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/demo/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/demo/.idea/dataSources/495b5971-435d-4a77-b6fb-180c1020f83a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/demo/.idea/dataSources/495b5971-435d-4a77-b6fb-180c1020f83a.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/demo/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/demo/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/demo/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +121,9 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2ZQDEkjpGNo6Jwp96AVK4AJbrgh" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,19 +132,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.83" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.83" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -159,6 +243,8 @@
       <option name="presentableId" value="Default" />
       <updated>1702345300116</updated>
       <workItem from="1702345301137" duration="12633000" />
+      <workItem from="1702431958872" duration="1000" />
+      <workItem from="1702520022550" duration="1243000" />
     </task>
     <servers />
   </component>

@@ -59,7 +59,6 @@ public class UserDAO implements IUserDAO{
     }
 
     public List<User> selectAllUsers() {
-
         List<User> users = new ArrayList<>();
         try  {
             Connection connection = JDBCConnection.getConnection();
